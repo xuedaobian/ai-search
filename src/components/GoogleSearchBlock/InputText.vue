@@ -5,9 +5,9 @@ const searchText = ref('')
 </script>
 
 <template>
-<div>
-  <input type="text" v-model="searchText">
-</div>
+  <div>
+    <input v-model="searchText" type="text">
+  </div>
 </template>
 
 <style scoped>
