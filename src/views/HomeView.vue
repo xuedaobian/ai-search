@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import InputText from '@/components/GoogleSearchBlock/InputText.vue'
 </script>
 
 <template>
-  <InputText />
+  <div>
+    <h1>Home</h1>
+  </div>
 </template>
